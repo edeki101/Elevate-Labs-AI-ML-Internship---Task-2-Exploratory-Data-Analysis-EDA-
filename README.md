@@ -23,7 +23,17 @@ This project fulfills the core task requirements through the following steps:
 * `Task_2_Titanic_EDA.ipynb`: The Jupyter Notebook containing the full Python code, statistical outputs, and visualization plots.
 * `Titanic-Dataset.csv`: The dataset analyzed in this project.
 * `README.md`: Project documentation and interview question answers.
+### 1. Histograms and Boxplots
+![Histograms and Boxplots](histograms_and_boxplots.png)
 
+### 2. Correlation Matrix
+![Correlation Matrix](correlation_matrix.png)
+
+### 3. Advanced EDA Dashboard
+![Advanced EDA Dashboard](advanced_eda_dashboard.png)
+
+### 4. Pairplot
+![Pairplot](pairplot.png)
 ---
 
 ## Interview Questions & Answers
